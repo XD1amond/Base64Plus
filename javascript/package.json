@@ -1,0 +1,37 @@
+{
+  "name": "base64plus",
+  "version": "0.1.0",
+  "description": "Transform images into AI-ready data with embedded text and positions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64",
+    "ocr",
+    "image",
+    "text",
+    "ai",
+    "machine-learning"
+  ],
+  "author": "Base64Plus Team",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "tesseract.js": "^4.0.0"
+  },
+  "optionalDependencies": {
+    "sharp": "^0.30.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/base64plus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/base64plus/issues"
+  },
+  "homepage": "https://github.com/yourusername/base64plus#readme"
+}
